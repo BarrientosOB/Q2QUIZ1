@@ -1,0 +1,19 @@
+body {
+	
+	color: black;
+	text-align: center;
+	background-image: url('paper2.jpg');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+  	font-family: "Crimson Text", serif;
+
+}
+
+
+
+img {
+	width: 130px;
+
+}
+
